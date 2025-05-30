@@ -1396,7 +1396,7 @@ nav.validnavs.brand-center .navbar-brand svg {
 	}
 
 	nav.navbar.validnavs li.dropdown ul.dropdown-menu {
-		background: var(--white) none repeat scroll 0 0;
+		background: white none repeat scroll 0 0;
 		border: 1px solid transparent;
 		border-radius: 2px;
 		box-shadow: var(--box-shadow-extra);
@@ -1434,7 +1434,7 @@ nav.validnavs.brand-center .navbar-brand svg {
 	}
 
 	nav.navbar.validnavs ul li.dropdown ul.dropdown-menu li a {
-		color: var(--dark);
+		color: black;
 		display: block;
 		font-size: 16px;
 		margin-bottom: 0;
@@ -2782,7 +2782,7 @@ ul.simple-menu-list > li i {
 
 	.navbar-brand>img {
 		height: auto;
-		max-height: 62px;
+		max-height: 75px;
 	}
 
 	.bg-dark .navbar-box .navbar-brand>img {
@@ -2926,7 +2926,7 @@ ul.simple-menu-list > li i {
 	}
 
 	nav.navbar.validnavs.navbar-box .nav-box {
-		background: var(--white);
+		background: white;
 		padding: 0 50px;
 		border-radius: 10px;
 	}

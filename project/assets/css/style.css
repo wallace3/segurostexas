@@ -106,7 +106,7 @@ Sidebar heading:  22px 'Manrope', sans-serif
 	--font-optional: 'Barlow', sans-serif;
 	--fontawesome: "Font Awesome 5 Pro";
 	--black: #000000;
-	--dark: #1f2b38;
+	--dark: #ffffff;
 	--dark-secondary: #283849;
 	--dark-optional: #00194C;
 	--white: #ffffff;
@@ -833,7 +833,15 @@ p {
 }
 
 .bg-dark .title {
-	color: var(--white);
+	color: black;
+}
+
+.footer-two{
+	background:black!important;
+}
+
+.secondary-headings{
+	color:black!important;
 }
 
 .site-heading .title {
@@ -2844,7 +2852,11 @@ a.btn-round-animation.dark {
 
 .bg-theme .item-flex li i,
 .bg-dark .item-flex li i {
-	color: var(--white);
+	color: black;
+}
+
+.text-top{
+	color:Black;
 }
 
 .top-bar-area li {
@@ -3042,7 +3054,7 @@ a.btn-round-animation.dark {
 }
 
 .top-header-items .logo img {
-	height: 62px;
+	height: 75px;
 }
 
 ul.top-header-list {
@@ -3160,7 +3172,7 @@ ul.top-header-list li:first-child::after {
 }
 
 .color-style-four .top-bar-style-three .text-end .item-flex::after {
-	background: var(--color-style-four);
+	background: #66c010;
 }
 
 @media (min-width: 1024px) {
@@ -6232,7 +6244,7 @@ a.btn-reagular i {
 }
 
 .services-five-nav-tabs .nav-item .nav-link .icon {
-	background: var(--dark);
+	background: black;
 	height: 70px;
 	width: 70px;
 	min-width: 70px;
@@ -9249,8 +9261,7 @@ form.quote-style-four .form-group {
 
 form.quote-style-four .form-group input {
 	background: transparent;
-	color: var(--white);
-	border: 1px solid rgba(255, 255, 255, 0.2);
+	color: black;
 }
 
 form.quote-style-four .form-group .nice-select {
@@ -13850,7 +13861,7 @@ footer.footer-two {
 
 .bg-dark nav.navbar.validnavs.navbar-box.navbar-style-three .nav-box {
 	box-shadow: none;
-	background: var(--dark-secondary);
+	background: black;
 }
 
 .bg-dark nav.navbar.validnavs.navbar-box.navbar-style-three.sticked .nav-box {
