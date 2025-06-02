@@ -1881,7 +1881,7 @@ p {
 .btn.btn-theme {
 	color: var(--white);
 	border: none;
-	background: var(--color-primary);
+	background: #66c010;
 }
 
 .color-style-two .btn.btn-theme {
@@ -1972,7 +1972,7 @@ button {
 	z-index: 1;
 	color: var(--white);
 	border: none;
-	background: var(--color-primary);
+	background:#66c010;
 }
 
 .color-style-two button {
@@ -5019,7 +5019,7 @@ ul.list-check li::after {
 	width: 18px;
 	line-height: 18px;
 	text-align: center;
-	background: var(--color-primary);
+	background: #66c010;
 	color: var(--white);
 	border-radius: 50%;
 	font-size: 10px;
@@ -6757,7 +6757,7 @@ a.btn-reagular i {
 }
 
 .services-list-widget .current-item a {
-	background: var(--color-primary);
+	background: #66c010;
 	font-weight: 700;
 	padding: 10px 30px;
 	color: var(--white);
@@ -13187,29 +13187,29 @@ footer.footer-two {
 	height: 80px;
 	margin-top: -45px;
 	border-radius: 0px;
-	background-color: var(--color-primary);
+	background-color:#66c010;
 	animation: urane-loader-aim 0.8s infinite;
 	animation-direction: alternate-reverse;
 }
 
 .color-style-two .urane-loader-item {
-	background-color: var(--color-style-two);
+	background-color: #66c010;
 }
 
 .color-style-three .urane-loader-item {
-	background-color: var(--color-style-three);
+	background-color: #66c010;
 }
 
 .color-style-four .urane-loader-item {
-	background-color: var(--color-style-four);
+	background-color: #66c010;
 }
 
 .color-style-five .urane-loader-item {
-	background-color: var(--color-style-five);
+	background-color: #66c010;
 }
 
 .color-style-six .urane-loader-item {
-	background-color: var(--color-secondary);
+	background-color: #66c010;
 }
 
 .urane-loader .urane-loader-item:nth-child(1) {
@@ -13508,7 +13508,7 @@ footer.footer-two {
 }
 
 .bg-dark .btn.btn-theme:hover {
-	color: var(--color-heading);
+	color: #66c010;
 }
 
 .bg-dark .btn.btn-theme:after {

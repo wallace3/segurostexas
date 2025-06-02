@@ -13137,7 +13137,7 @@ footer.footer-two {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background-color: var(--white);
+	background-color: #66c010;
 	z-index: 999;
 }
 
@@ -13176,29 +13176,29 @@ footer.footer-two {
 	height: 80px;
 	margin-top: -45px;
 	border-radius: 0px;
-	background-color: var(--color-primary);
+	background-color: #66c010;
 	animation: urane-loader-aim 0.8s infinite;
 	animation-direction: alternate-reverse;
 }
 
 .color-style-two .urane-loader-item {
-	background-color: var(--color-style-two);
+	background-color: #66c010;
 }
 
 .color-style-three .urane-loader-item {
-	background-color: var(--color-style-three);
+	background-color: #66c010;
 }
 
 .color-style-four .urane-loader-item {
-	background-color: var(--color-style-four);
+	background-color: #66c010;
 }
 
 .color-style-five .urane-loader-item {
-	background-color: var(--color-style-five);
+	background-color: #66c010;
 }
 
 .color-style-six .urane-loader-item {
-	background-color: var(--color-secondary);
+	background-color: #66c010;
 }
 
 .urane-loader .urane-loader-item:nth-child(1) {
